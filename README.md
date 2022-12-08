@@ -1,4 +1,4 @@
-## click_counter
+## Click Counter
 
 A new Flutter project, that you can click buttons. What an amazing future.
 
